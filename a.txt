@@ -1,0 +1,2 @@
+(12, Computer Science, Computer Architecture, Springer, 2004, yinze, 90.00, 2)
+(1223, Computer Science, Computer Network, Sprddinger, 2104, yinze, 89.00, 58)
